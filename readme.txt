@@ -1,5 +1,5 @@
 === 2RHYTHMS Radio Widget ===
-Contributors: 2RHYTHMS, Fourteen Six Street, LLC
+Contributors: 2RHYTHMS, Fourteen Six Street
 Tags: streaming radio, streaming, radio, music, entertainment, mp3 player, mp3 stream, mp3
 Requires at least: 3.0
 Tested up to: 3.4.2
@@ -7,11 +7,10 @@ Stable tag: 1.0
 License: GPLv2 or later.
 License URI: http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
 
-2RHYTHMS streaming radio widget with pre-defined stations. Over 5,000 stations in more than 20 genres.
+Streaming radio widget. 5,000 stations in more than 20 genres.
 
 == Description ==
-The 2RHYTHMS radio widget embeds a streaming media player with over 5,000 pre-defined stations, on your website. Widget checkboxes let you choose specific genres of music to match your website format - or you can roll with all stations by default. The media player itself works with smart / mobile devices and is designed by Saleem El-Amin at http://www.codebasehero.com. 
-
+The 2RHYTHMS radio widget gives visitors access to 5,000 stations from your website. Choose specific genres of music or roll with them all! Works with smart / mobile devices.
 = What's new in verson 1.0 of this plugin? =
 1. Everything! We'll add features as time goes by...
 
